@@ -1,0 +1,1 @@
+print ('Kaibigan anong nasa isip mo ? ')
